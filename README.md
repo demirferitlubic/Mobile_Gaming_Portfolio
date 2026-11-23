@@ -2,7 +2,7 @@
 
 Final-year Engineering M.Sc. student (Politecnico di Torino) focused on mobile game product analysis: feature design, experimentation and player retention.
 
-Daily puzzle-game player — Toon Blast (Level 2,024), Match Villains (Level 768). LinkedIn
+Daily puzzle-game player — Toon Blast (Level 2,024), Match Villains (Level 768).
 
 1. Toon Blast — Crown Rush: Comeback Assist Feature Proposal
 
