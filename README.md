@@ -1,4 +1,4 @@
-#Mobile Game Product Portfolio — Demir Ferit Lübiç
+# Mobile Game Product Portfolio — Demir Ferit Lübiç
 
 Final-year Engineering M.Sc. student (Politecnico di Torino) focused on mobile game product analysis: feature design, experimentation and player retention.
 
